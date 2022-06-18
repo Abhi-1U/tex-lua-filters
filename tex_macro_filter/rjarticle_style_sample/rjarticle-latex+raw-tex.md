@@ -1,0 +1,20 @@
+```{=latex}
+\sectionhead{Contributed research article}
+```
+```{=latex}
+\volume{XX}
+```
+```{=latex}
+\volnumber{YY}
+```
+```{=latex}
+\year{20ZZ}
+```
+```{=latex}
+\month{AAAA}
+```
+```{=latex}
+\begin{article}
+  \input{RJtemplate}
+\end{article}
+```
