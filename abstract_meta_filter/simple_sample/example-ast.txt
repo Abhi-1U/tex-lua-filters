@@ -1,0 +1,12 @@
+Pandoc
+  Meta
+    { unMeta =
+        fromList
+          [ ( "author"
+            , MetaList
+                [ MetaInlines [ Str "Abhishek" , Space , Str "U" ] ]
+            )
+          , ( "title" , MetaInlines [ Space , Str "Hello" ] )
+          ]
+    }
+  [ Para [ Str "Hello" , Space , Str "world" ] ]
