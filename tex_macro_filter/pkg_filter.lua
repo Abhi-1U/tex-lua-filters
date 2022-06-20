@@ -1,9 +1,9 @@
 return {
   {
     RawInline = function (raw)
-      local formula = raw.text:match '\\pkg{([^ ]+)}'
-      if raw.format == 'latex' and formula then
-        return pandoc.Str(formula)
+      local pkg_name = raw.text:match '\\pkg{([^ ]+)}'
+      if raw.format == 'latex' and pkg_name then
+        return pandoc.Str(pkg_name)
       end
     end
   }
