@@ -1,7 +1,22 @@
-# Software versions
+# Pandoc Lua filters for LaTeX --> Markdown
+![Pandoc](https://img.shields.io/badge/pandoc-2.15+-red?style=for-the-badge&logo=haskell)
+![lua](https://img.shields.io/badge/lua-filter-darkblue?style=for-the-badge&logo=lua)
+![Pandoc](https://img.shields.io/badge/license-MIT-black?style=for-the-badge&logo=)
 
-1. pandoc 2.15
+I have worked on some of the filters which try to do certain customizations (filtering) to Pandoc's AST during conversion from LaTeX to Markdown.
+
+
+These also serve as example files for creating other/similar filters.
+
+## How to use 
+
+append the pandoc command with this option `--lua-filter \path\to\filter` 
+
+## Tested Software versions
+
+1. pandoc 2.18
 2. R version 3.6.3 (2020-02-29) -- "Holding the Windsock"
 3. Linux Mint 20.3 x86_64
 4. kernel 5.4.0-107-generic
 5. R-Studio 2022.02.3 Build 492
+6. pdfTeX 3.141592653-2.6-1.40.24 (TeX Live 2022)
