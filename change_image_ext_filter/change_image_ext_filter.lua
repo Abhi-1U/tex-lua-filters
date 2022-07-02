@@ -1,5 +1,5 @@
 --[[
-bib-remover-filter – remove \thebibliography of latex source file
+change-image-extension-filter – change pandoc Image.src extension from pdf to png
 Copyright: © 2022 Abhishek Ulayil
 License:   MIT – see LICENSE file for details
 --]]
