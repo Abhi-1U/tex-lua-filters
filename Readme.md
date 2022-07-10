@@ -15,8 +15,8 @@ append the pandoc command with this option `--lua-filter \path\to\filter`
 ## Tested Software versions
 
 1. pandoc 2.18
-2. R version 3.6.3 (2020-02-29) -- "Holding the Windsock"
-3. Linux Mint 20.3 x86_64
-4. kernel 5.4.0-107-generic
-5. R-Studio 2022.02.3 Build 492
+2. R version 3.6.3 (2020-02-29) -- "Holding the Windsock" / R version 4.0.0 (2020-04-24) -- "Arbor Day"
+3. Linux Mint 20.3 x86_64 / Windows 10 21H2
+4. kernel 5.4.0-107-generic / Windows kernel
+5. Rstudio 2022.07.0 Build 548
 6. pdfTeX 3.141592653-2.6-1.40.24 (TeX Live 2022)
