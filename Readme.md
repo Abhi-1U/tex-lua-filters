@@ -1,4 +1,4 @@
-# Pandoc Lua filters for LaTeX --> Markdown
+# Pandoc Lua filters for LaTeX --> Markdown / Rmarkdown
 ![Pandoc](https://img.shields.io/badge/pandoc-2.15+-red?style=for-the-badge&logo=haskell)
 ![lua](https://img.shields.io/badge/lua-filter-darkblue?style=for-the-badge&logo=lua)
 ![Pandoc](https://img.shields.io/badge/license-MIT-black?style=for-the-badge&logo=)
