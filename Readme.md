@@ -6,7 +6,7 @@
 I have worked on some of the filters which try to do certain customizations (filtering) to Pandoc's AST during conversion from LaTeX to Markdown.
 
 
-These also serve as example files for creating other/similar filters.
+These also serve as examples for creating other/similar filters.
 
 ## How to use 
 
