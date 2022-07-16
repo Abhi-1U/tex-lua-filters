@@ -1,5 +1,5 @@
 --[[
-CodeBlock filter – Convert a Div block into a CodeBlock
+modify-table-caption filter – Change the table caption
 License:   MIT – see LICENSE file for details
 adapted from: Albert Krewinkel implementation
 original License: CC0
