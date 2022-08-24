@@ -30,6 +30,7 @@ end
 Converts Links to equations to modified format
 --]]
 function Link(el)
+    is_bkdwn = false
     for _,label in pairs(equation_labels) do
         if ("#"..label) == el.target then
             print(label)
